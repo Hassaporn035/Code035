@@ -1,0 +1,19 @@
+.botton {
+    background-color: blueviolet;
+    color: antiquewhite;
+    padding: 15px;
+    border-radius: 20px;
+    margin: 20px 0px;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+    color: rgb(68, 44, 133);
+}
+
+input{
+    margin-top: 5px;
+}
